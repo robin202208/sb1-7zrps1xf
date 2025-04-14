@@ -1,0 +1,35 @@
+{
+  "common": {
+    "welcome": "欢迎回来！",
+    "whereToGo": "今天想去哪里？",
+    "weather": "天气",
+    "location": "位置",
+    "services": {
+      "hotels": "酒店",
+      "transport": "交通",
+      "restaurants": "餐厅"
+    },
+    "recentSearches": "最近搜索"
+  },
+  "assistant": {
+    "greeting": "你好！我是你的AI旅行助手。今天需要什么帮助？",
+    "placeholder": "输入消息...",
+    "listening": "正在聆听...",
+    "tapToSpeak": "点击说话"
+  },
+  "profile": {
+    "settings": "设置",
+    "language": "语言",
+    "notifications": "通知",
+    "payment": "支付方式",
+    "logout": "退出登录",
+    "version": "版本"
+  },
+  "services": {
+    "title": "旅行服务",
+    "popularHotels": "热门酒店",
+    "recommendedRestaurants": "推荐餐厅",
+    "perNight": "/晚",
+    "cuisine": "菜系"
+  }
+}

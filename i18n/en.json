@@ -1,0 +1,35 @@
+{
+  "common": {
+    "welcome": "Welcome back!",
+    "whereToGo": "Where would you like to go today?",
+    "weather": "Weather",
+    "location": "Location",
+    "services": {
+      "hotels": "Hotels",
+      "transport": "Transport",
+      "restaurants": "Restaurants"
+    },
+    "recentSearches": "Recent Searches"
+  },
+  "assistant": {
+    "greeting": "Hello! I'm your AI travel assistant. How can I help you today?",
+    "placeholder": "Type your message...",
+    "listening": "Listening...",
+    "tapToSpeak": "Tap to speak"
+  },
+  "profile": {
+    "settings": "Settings",
+    "language": "Language",
+    "notifications": "Notifications",
+    "payment": "Payment Methods",
+    "logout": "Log Out",
+    "version": "Version"
+  },
+  "services": {
+    "title": "Travel Services",
+    "popularHotels": "Popular Hotels",
+    "recommendedRestaurants": "Recommended Restaurants",
+    "perNight": "/night",
+    "cuisine": "Cuisine"
+  }
+}
